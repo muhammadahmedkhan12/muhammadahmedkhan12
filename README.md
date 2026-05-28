@@ -76,7 +76,7 @@ A multi-agent AI system that helps Pakistani farmers and exporters navigate SPS,
 
 ---
 
-### 🧠 Sorting & Memory Allocation Simulator — DSA Visualizer
+### 🧠 [Sorting & Memory Allocation Simulator](https://github.com/muhammadahmedkhan12/DSA_Project) — DSA Visualizer
 - JavaFX GUI simulating Bubble, Selection, Insertion, and Merge Sort
 - Memory allocation simulator with Best Fit, First Fit, and Worst Fit strategies + live fragmentation visualization
 - User controls: start, pause, reset, randomize
