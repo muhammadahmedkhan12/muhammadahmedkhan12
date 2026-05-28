@@ -127,8 +127,8 @@ A multi-agent AI system that helps Pakistani farmers and exporters navigate SPS,
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed1248khan&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1248khan&layout=compact&theme=radical&hide_border=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadahmedkhan12&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmedkhan12&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
