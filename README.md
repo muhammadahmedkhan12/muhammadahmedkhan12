@@ -194,7 +194,7 @@ Database-driven cinema management platform.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1248khan&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmedkhan12&theme=tokyonight"/>
 
 </p>
 
