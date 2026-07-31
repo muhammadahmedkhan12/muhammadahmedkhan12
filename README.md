@@ -154,7 +154,7 @@ Includes:
 
 ---
 
-## 🎬 [Movie Cinema Management System] (https://github.com/muhammadahmedkhan12/DBMS)
+## 🎬 [Movie Cinema Management System](https://github.com/muhammadahmedkhan12/DBMS)
 
 Database-driven cinema management platform.
 
