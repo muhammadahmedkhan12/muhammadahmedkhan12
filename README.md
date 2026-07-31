@@ -47,7 +47,7 @@ Currently serving as **Campus Ambassador at Atomcamp**, bridging the gap between
 
 ## 🚀 Projects
 
-### 🌾 [FasalAI](https://github.com/ahmed1248khan/fasalAI) — AI-Powered Agricultural Export Compliance
+### 🌾 [FasalAI](https://github.com/muhammadahmedkhan12/Fasal-AI) — AI-Powered Agricultural Export Compliance
 > Built for the **National AI Hackathon powered by Atomcamp**
 
 A multi-agent AI system that helps Pakistani farmers and exporters navigate SPS, MRL, and phytosanitary compliance for international markets (EU, USDA, Gulf).
