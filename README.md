@@ -123,7 +123,7 @@ Built an n8n workflow that processes supplier data from multiple Excel files acr
 
 ---
 
-## ☕ College Admission System
+## ☕ [College Admission System](https://github.com/muhammadahmedkhan12/OOP_Project)
 
 Java OOP application with JavaFX/Swing interface.
 
@@ -137,7 +137,7 @@ Java OOP application with JavaFX/Swing interface.
 
 ---
 
-## 📊 Sorting & Memory Allocation Simulator
+## 📊 [Sorting & Memory Allocation Simulator](https://github.com/muhammadahmedkhan12/DSA_Project)
 
 Interactive JavaFX simulator for learning Data Structures & Operating Systems.
 
@@ -154,7 +154,7 @@ Includes:
 
 ---
 
-## 🎬 Movie Cinema Management System
+## 🎬 [Movie Cinema Management System] (https://github.com/muhammadahmedkhan12/DBMS)
 
 Database-driven cinema management platform.
 
