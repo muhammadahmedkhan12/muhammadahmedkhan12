@@ -69,7 +69,7 @@ I enjoy combining **AI Agents + APIs + Automation** to solve practical business 
 
 # 🚀 Featured Projects
 
-## 🌾 FasalAI — AI Agricultural Export Compliance Platform
+## 🌾 FasalAI(https://github.com/muhammadahmedkhan12/Fasal-AI) — AI Agricultural Export Compliance Platform
 
 Built for the **National AI Hackathon**, FasalAI is a multi-agent platform that helps Pakistani farmers comply with international export regulations.
 
